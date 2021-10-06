@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey 👋  I'm Dex :bowtie:
 
-<!--
-**D-E-Z-MO/D-E-Z-MO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: HE/HIM/HIS
+- 📫 Reach me: https://www.linkedin.com/in/douglass-moss-214233141/
+- 🔭 I’m interested in building a better future through art & education
+- ⚡ Fun fact: I have a degree in fashion design
 
-Here are some ideas to get you started:
+- 🌱 I’m currently building custom component libraries and CLI's
+- 👯 I’m looking to collaborate on a fun astrological web-app
+- 🤔 I’m looking for help with using Twitter  
+- 💬 Ask me about my family
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
