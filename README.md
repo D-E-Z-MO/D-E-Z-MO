@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I have a degree in fashion design 🧵 🪡 
 
 - 🌱 I’m currently learning Python & have graduated coding bootcamp April '22
-- 👯 I’m looking to collaborate on a cool D3.js app
+- 👯 I’m looking to collaborate on a cool D3js.org app
 - 🤔 I’m looking for help with using Twitter  
 - 💬 Ask me about my family...
 
