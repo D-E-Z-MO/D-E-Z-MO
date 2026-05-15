@@ -1,14 +1,16 @@
-### Hi World! 👋  I'm Douglass but call me Dexter :bowtie:
+### Hi World! 👋 I'm Dexter
 
-- 😄 Pronouns: HE/HIM/HIS
-- 📫 Reach me: https://www.linkedin.com/in/douglass-moss-214233141/
-- 🔭 I’m interested in building a better future through art education
-- ⚡ Fun fact: I have a degree in fashion design 🧵 🪡 
+Product-focused Front-End Engineer, creative technologist, and founder building reflective AI experiences.
 
-- 🌱 I’m currently learning Python & have graduated coding bootcamp April '22
-- 👯 I’m looking to collaborate on a cool D3js.org app
-- 🤔 I’m looking for help with using Twitter  
-- 💬 Ask me about my family...
-
+🧠 Building ech0 — an identity reflection interface exploring human pattern recognition
+→ mindemos.com
+⚛️ Focused on React, JavaScript, UX systems, and interactive digital experiences
+🎨 Background in fashion design, branding, and creative direction
+🚀 Passionate about building products that blend psychology, design, and technology
+🌱 Currently expanding into Python, AI systems, and data visualization
+🤝 Open to collaborating on experimental UI/UX projects, D3.js visualizations, and creative tech
+📫 Connect with me on LinkedIn:
+https://www.linkedin.com/in/dexter-moss-214233141/
+⚡ Fun fact: I design software with the same mindset I approach fashion — structure, emotion, and identity
 
 
